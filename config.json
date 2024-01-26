@@ -1,0 +1,6 @@
+{
+    "TOKENIZER_LOC" : "roberta_tokenizer.pkl",
+    "EXCEPTION_MASTER_LOC" : "exception_master.json",
+    "ONNX_LOC" : "roberta.onnx", 
+    "CUSTOM_STOPWORDS" : ["men", "vebnor","black", "ff"]    
+}
